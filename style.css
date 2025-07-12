@@ -256,7 +256,7 @@ footer {
   /* Add the image */
   background-image: url('images/logo.png');
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: right;
   
   /* Set dimensions to match your image */
   width: 100%;
